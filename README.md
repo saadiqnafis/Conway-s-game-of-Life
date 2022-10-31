@@ -1,4 +1,4 @@
-# Conway-s-game-of-Life
+# Conway's game of Life
 
 I implemented Conway’s game of life in this project. In this project, I used arrays and
 cells. The array has cells with a certain value at the beginning of the game. As the game
